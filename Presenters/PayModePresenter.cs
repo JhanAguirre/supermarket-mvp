@@ -26,7 +26,7 @@ namespace Supermarker_mvp.Presenters
             this.view.EditEvent += LoadSelectPayModeToEdit;
             this.view.DeleteEvent += DeleteSelectedPayMode;
             this.view.SaveEvent += SavePayMode;
-            this.view.CancelEvent += CancelAction;  
+            this.view.CancelEvent += CancelAction;
 
             this.view.SetPayModeListBildingSource(payModeBindingSource);
 
@@ -34,7 +34,7 @@ namespace Supermarker_mvp.Presenters
 
             this.view.Show();
         }
-
+            
         private void LoadAllPayModeList()
         {
             payModeList = repository.GetAll();
@@ -80,4 +80,9 @@ namespace Supermarker_mvp.Presenters
             payModeBindingSource.DataSource = payModeList;
         }
     }
-}   
+}
+
+
+
+
+    

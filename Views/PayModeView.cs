@@ -71,7 +71,7 @@ namespace Supermarket_mvp.Views
             BtnSearch.Click += delegate { SearchEvent?.Invoke(this, EventArgs.Empty); };
 
             TxtSearch.KeyDown += (s, e) =>
-            {   
+            {
                 if (e.KeyCode == Keys.Enter)
                 {
                     SearchEvent?.Invoke(this, EventArgs.Empty);
@@ -97,6 +97,11 @@ namespace Supermarket_mvp.Views
         public void SetPayModeListBindingSource(BindingSource payModeList)
         {
             DgPayMode.DataSource = payModeList;
+        }
+
+        public void SetPayModeListBildingSource(BindingSource payModeBindingSource)
+        {
+            
         }
     }
 }

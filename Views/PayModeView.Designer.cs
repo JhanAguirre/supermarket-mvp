@@ -258,7 +258,7 @@
             TxtPayModeObservation.PlaceholderText = "Pay Mode Observation";
             TxtPayModeObservation.Size = new Size(319, 64);
             TxtPayModeObservation.TabIndex = 5;
-            TxtPayModeObservation.TextChanged += TxtPayModeObservation_TextChanged;
+            
             // 
             // BtnSave
             // 
@@ -277,7 +277,7 @@
             BtnCancel.Size = new Size(95, 38);
             BtnCancel.TabIndex = 7;
             BtnCancel.UseVisualStyleBackColor = true;
-            BtnCancel.Click += button2_Click;
+           
             // 
             // PayModeView
             // 
