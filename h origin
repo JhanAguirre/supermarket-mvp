@@ -1,0 +1,35 @@
+[33mcommit c545b97f25b29ed3fd426fc5917c3445dc48ed2a[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: JhanAguirre <jhanalejandroaguirre5@gmail.com>
+Date:   Thu Oct 10 23:39:44 2024 -0500
+
+    Adjustments to views
+
+[33mcommit 920346d08f4d574a44d9d65a1ca82ea2ea96dc67[m[33m ([m[1;31morigin/main[m[33m)[m
+Author: JhanAguirre <jhanalejandroaguirre5@gmail.com>
+Date:   Thu Oct 10 22:42:03 2024 -0500
+
+    Main View
+
+[33mcommit 41cfd393316e543ee39a8e3c9b70f0f279669377[m
+Author: JhanAguirre <jhanalejandroaguirre5@gmail.com>
+Date:   Thu Oct 10 16:48:50 2024 -0500
+
+    Pay Mode Repository - Search
+
+[33mcommit d4e61674e26938db61bde9f531979508dededa4d[m
+Author: JhanAguirre <jhanalejandroaguirre5@gmail.com>
+Date:   Wed Oct 9 14:56:20 2024 -0500
+
+    Pay Mode Presenter
+
+[33mcommit d5f60a52116211b1c16da11a7a7677f938d34b58[m
+Author: JhanAguirre <jhanalejandroaguirre5@gmail.com>
+Date:   Wed Oct 9 00:46:33 2024 -0500
+
+    Pay Mode View
+
+[33mcommit 12350d63e292cf3c3ea3f9155611804129d4dcc6[m
+Author: JhanAguirre <jhanalejandroaguirre5@gmail.com>
+Date:   Tue Oct 8 20:09:14 2024 -0500
+
+    Supermarket
