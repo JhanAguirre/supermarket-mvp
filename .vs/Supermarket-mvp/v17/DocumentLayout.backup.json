@@ -3,12 +3,60 @@
   "WorkspaceRootPath": "C:\\Users\\Dell\\source\\repos\\Supermarket-mvp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1A1862CB-0D2D-4B31-972D-1C8C8527F050}|Supermarket-mvp.csproj|c:\\users\\dell\\source\\repos\\supermarket-mvp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1A1862CB-0D2D-4B31-972D-1C8C8527F050}|Supermarket-mvp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1A1862CB-0D2D-4B31-972D-1C8C8527F050}|Supermarket-mvp.csproj|c:\\users\\dell\\source\\repos\\supermarket-mvp\\presenters\\mainpresenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A1862CB-0D2D-4B31-972D-1C8C8527F050}|Supermarket-mvp.csproj|solutionrelative:presenters\\mainpresenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A1862CB-0D2D-4B31-972D-1C8C8527F050}|Supermarket-mvp.csproj|c:\\users\\dell\\source\\repos\\supermarket-mvp\\views\\paymodeview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A1862CB-0D2D-4B31-972D-1C8C8527F050}|Supermarket-mvp.csproj|solutionrelative:views\\paymodeview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A1862CB-0D2D-4B31-972D-1C8C8527F050}|Supermarket-mvp.csproj|c:\\users\\dell\\source\\repos\\supermarket-mvp\\presenters\\paymodepresenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A1862CB-0D2D-4B31-972D-1C8C8527F050}|Supermarket-mvp.csproj|solutionrelative:presenters\\paymodepresenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1A1862CB-0D2D-4B31-972D-1C8C8527F050}|Supermarket-mvp.csproj|c:\\users\\dell\\source\\repos\\supermarket-mvp\\views\\ipaymodeview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1A1862CB-0D2D-4B31-972D-1C8C8527F050}|Supermarket-mvp.csproj|solutionrelative:views\\ipaymodeview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A1862CB-0D2D-4B31-972D-1C8C8527F050}|Supermarket-mvp.csproj|c:\\users\\dell\\source\\repos\\supermarket-mvp\\models\\paymodemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A1862CB-0D2D-4B31-972D-1C8C8527F050}|Supermarket-mvp.csproj|solutionrelative:models\\paymodemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A1862CB-0D2D-4B31-972D-1C8C8527F050}|Supermarket-mvp.csproj|c:\\users\\dell\\source\\repos\\supermarket-mvp\\models\\ipaymoderepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A1862CB-0D2D-4B31-972D-1C8C8527F050}|Supermarket-mvp.csproj|solutionrelative:models\\ipaymoderepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A1862CB-0D2D-4B31-972D-1C8C8527F050}|Supermarket-mvp.csproj|c:\\users\\dell\\source\\repos\\supermarket-mvp\\_repositories\\paymoderepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A1862CB-0D2D-4B31-972D-1C8C8527F050}|Supermarket-mvp.csproj|solutionrelative:_repositories\\paymoderepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A1862CB-0D2D-4B31-972D-1C8C8527F050}|Supermarket-mvp.csproj|c:\\users\\dell\\source\\repos\\supermarket-mvp\\_repositories\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A1862CB-0D2D-4B31-972D-1C8C8527F050}|Supermarket-mvp.csproj|solutionrelative:_repositories\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A1862CB-0D2D-4B31-972D-1C8C8527F050}|Supermarket-mvp.csproj|c:\\users\\dell\\source\\repos\\supermarket-mvp\\views\\mainview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1A1862CB-0D2D-4B31-972D-1C8C8527F050}|Supermarket-mvp.csproj|solutionrelative:views\\mainview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A1862CB-0D2D-4B31-972D-1C8C8527F050}|Supermarket-mvp.csproj|C:\\Users\\Dell\\source\\repos\\Supermarket-mvp\\views\\paymodeview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1A1862CB-0D2D-4B31-972D-1C8C8527F050}|Supermarket-mvp.csproj|solutionrelative:views\\paymodeview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A1862CB-0D2D-4B31-972D-1C8C8527F050}|Supermarket-mvp.csproj|c:\\users\\dell\\source\\repos\\supermarket-mvp\\views\\paymodeview.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A1862CB-0D2D-4B31-972D-1C8C8527F050}|Supermarket-mvp.csproj|solutionrelative:views\\paymodeview.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A1862CB-0D2D-4B31-972D-1C8C8527F050}|Supermarket-mvp.csproj|c:\\users\\dell\\source\\repos\\supermarket-mvp\\views\\imainview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A1862CB-0D2D-4B31-972D-1C8C8527F050}|Supermarket-mvp.csproj|solutionrelative:views\\imainview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A1862CB-0D2D-4B31-972D-1C8C8527F050}|Supermarket-mvp.csproj|c:\\users\\dell\\source\\repos\\supermarket-mvp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A1862CB-0D2D-4B31-972D-1C8C8527F050}|Supermarket-mvp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A1862CB-0D2D-4B31-972D-1C8C8527F050}|Supermarket-mvp.csproj|c:\\users\\dell\\source\\repos\\supermarket-mvp\\views\\mainview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A1862CB-0D2D-4B31-972D-1C8C8527F050}|Supermarket-mvp.csproj|solutionrelative:views\\mainview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1A1862CB-0D2D-4B31-972D-1C8C8527F050}|Supermarket-mvp.csproj|C:\\Users\\Dell\\source\\repos\\Supermarket-mvp\\properties\\settings.settings||{6D2695F9-5365-4A78-89ED-F205C045BFE6}",
@@ -27,40 +75,8 @@
       "RelativeMoniker": "D:0:0:{1A1862CB-0D2D-4B31-972D-1C8C8527F050}|Supermarket-mvp.csproj|solutionrelative:sqlquery1.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1A1862CB-0D2D-4B31-972D-1C8C8527F050}|Supermarket-mvp.csproj|c:\\users\\dell\\source\\repos\\supermarket-mvp\\_repositories\\paymoderepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1A1862CB-0D2D-4B31-972D-1C8C8527F050}|Supermarket-mvp.csproj|solutionrelative:_repositories\\paymoderepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1A1862CB-0D2D-4B31-972D-1C8C8527F050}|Supermarket-mvp.csproj|c:\\users\\dell\\source\\repos\\supermarket-mvp\\views\\paymodeview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1A1862CB-0D2D-4B31-972D-1C8C8527F050}|Supermarket-mvp.csproj|solutionrelative:views\\paymodeview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1A1862CB-0D2D-4B31-972D-1C8C8527F050}|Supermarket-mvp.csproj|C:\\Users\\Dell\\source\\repos\\Supermarket-mvp\\views\\paymodeview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{1A1862CB-0D2D-4B31-972D-1C8C8527F050}|Supermarket-mvp.csproj|solutionrelative:views\\paymodeview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1A1862CB-0D2D-4B31-972D-1C8C8527F050}|Supermarket-mvp.csproj|c:\\users\\dell\\source\\repos\\supermarket-mvp\\_repositories\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1A1862CB-0D2D-4B31-972D-1C8C8527F050}|Supermarket-mvp.csproj|solutionrelative:_repositories\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1A1862CB-0D2D-4B31-972D-1C8C8527F050}|Supermarket-mvp.csproj|c:\\users\\dell\\source\\repos\\supermarket-mvp\\presenters\\paymodepresenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1A1862CB-0D2D-4B31-972D-1C8C8527F050}|Supermarket-mvp.csproj|solutionrelative:presenters\\paymodepresenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1A1862CB-0D2D-4B31-972D-1C8C8527F050}|Supermarket-mvp.csproj|c:\\users\\dell\\source\\repos\\supermarket-mvp\\views\\paymodeview.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1A1862CB-0D2D-4B31-972D-1C8C8527F050}|Supermarket-mvp.csproj|solutionrelative:views\\paymodeview.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{1A1862CB-0D2D-4B31-972D-1C8C8527F050}|Supermarket-mvp.csproj|c:\\users\\dell\\source\\repos\\supermarket-mvp\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{1A1862CB-0D2D-4B31-972D-1C8C8527F050}|Supermarket-mvp.csproj|solutionrelative:app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1A1862CB-0D2D-4B31-972D-1C8C8527F050}|Supermarket-mvp.csproj|c:\\users\\dell\\source\\repos\\supermarket-mvp\\models\\ipaymoderepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1A1862CB-0D2D-4B31-972D-1C8C8527F050}|Supermarket-mvp.csproj|solutionrelative:models\\ipaymoderepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1A1862CB-0D2D-4B31-972D-1C8C8527F050}|Supermarket-mvp.csproj|c:\\users\\dell\\source\\repos\\supermarket-mvp\\models\\paymodemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1A1862CB-0D2D-4B31-972D-1C8C8527F050}|Supermarket-mvp.csproj|solutionrelative:models\\paymodemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/Supermarket/True/SqlTable/dbo.PayMode.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
@@ -81,176 +97,25 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "SQLQuery1.sql",
-              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\Supermarket-mvp\\SQLQuery1.sql",
-              "RelativeDocumentMoniker": "SQLQuery1.sql",
-              "ToolTip": "C:\\Users\\Dell\\source\\repos\\Supermarket-mvp\\SQLQuery1.sql",
-              "RelativeToolTip": "SQLQuery1.sql",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2024-10-10T21:18:52.449Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "IPayModeView.cs",
-              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\Supermarket-mvp\\Views\\IPayModeView.cs",
-              "RelativeDocumentMoniker": "Views\\IPayModeView.cs",
-              "ToolTip": "C:\\Users\\Dell\\source\\repos\\Supermarket-mvp\\Views\\IPayModeView.cs",
-              "RelativeToolTip": "Views\\IPayModeView.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAowBEAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-09T04:19:26.458Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Supermarket-mvp.csproj",
-              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\Supermarket-mvp\\Supermarket-mvp.csproj",
-              "RelativeDocumentMoniker": "Supermarket-mvp.csproj",
-              "ToolTip": "C:\\Users\\Dell\\source\\repos\\Supermarket-mvp\\Supermarket-mvp.csproj",
-              "RelativeToolTip": "Supermarket-mvp.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-10-09T04:07:00.036Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Supermarket-mvp",
-              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\Supermarket-mvp\\Supermarket-mvp.csproj",
-              "RelativeDocumentMoniker": "Supermarket-mvp.csproj",
-              "ToolTip": "C:\\Users\\Dell\\source\\repos\\Supermarket-mvp\\Supermarket-mvp.csproj",
-              "RelativeToolTip": "Supermarket-mvp.csproj",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-10-10T16:45:03.347Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Settings.settings",
-              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\Supermarket-mvp\\Properties\\Settings.settings",
-              "RelativeDocumentMoniker": "Properties\\Settings.settings",
-              "ToolTip": "C:\\Users\\Dell\\source\\repos\\Supermarket-mvp\\Properties\\Settings.settings",
-              "RelativeToolTip": "Properties\\Settings.settings",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002767|",
-              "WhenOpened": "2024-10-10T16:45:33.771Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\Supermarket-mvp\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\Dell\\source\\repos\\Supermarket-mvp\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBoAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-09T05:17:46.343Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "PayModeView.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\Supermarket-mvp\\Views\\PayModeView.cs",
-              "RelativeDocumentMoniker": "Views\\PayModeView.cs",
-              "ToolTip": "C:\\Users\\Dell\\source\\repos\\Supermarket-mvp\\Views\\PayModeView.cs [Dise\u00F1o]",
-              "RelativeToolTip": "Views\\PayModeView.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-09T04:29:10.31Z",
-              "EditorCaption": " [Dise\u00F1o]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "PayModeRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\Supermarket-mvp\\_Repositories\\PayModeRepository.cs",
-              "RelativeDocumentMoniker": "_Repositories\\PayModeRepository.cs",
-              "ToolTip": "C:\\Users\\Dell\\source\\repos\\Supermarket-mvp\\_Repositories\\PayModeRepository.cs",
-              "RelativeToolTip": "_Repositories\\PayModeRepository.cs",
-              "ViewState": "AgIAAD0AAAAAAAAAAAAcwFcAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-10T01:11:52.655Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "PayModeView.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\Supermarket-mvp\\Views\\PayModeView.Designer.cs",
-              "RelativeDocumentMoniker": "Views\\PayModeView.Designer.cs",
-              "ToolTip": "C:\\Users\\Dell\\source\\repos\\Supermarket-mvp\\Views\\PayModeView.Designer.cs",
-              "RelativeToolTip": "Views\\PayModeView.Designer.cs",
-              "ViewState": "AgIAAPAAAAAAAAAAAAAowA0BAAAzAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-09T18:45:45.419Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
               "Title": "PayModeView.cs",
               "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\Supermarket-mvp\\Views\\PayModeView.cs",
               "RelativeDocumentMoniker": "Views\\PayModeView.cs",
               "ToolTip": "C:\\Users\\Dell\\source\\repos\\Supermarket-mvp\\Views\\PayModeView.cs",
               "RelativeToolTip": "Views\\PayModeView.cs",
-              "ViewState": "AgIAAE8AAAAAAAAAAAAYwGoAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAADQAAAAAAAAAAAAcwHoAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-10T20:00:15.087Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "BaseRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\Supermarket-mvp\\_Repositories\\BaseRepository.cs",
-              "RelativeDocumentMoniker": "_Repositories\\BaseRepository.cs",
-              "ToolTip": "C:\\Users\\Dell\\source\\repos\\Supermarket-mvp\\_Repositories\\BaseRepository.cs",
-              "RelativeToolTip": "_Repositories\\BaseRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-10T01:09:53.621Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "PayModePresenter.cs",
-              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\Supermarket-mvp\\Presenters\\PayModePresenter.cs",
-              "RelativeDocumentMoniker": "Presenters\\PayModePresenter.cs",
-              "ToolTip": "C:\\Users\\Dell\\source\\repos\\Supermarket-mvp\\Presenters\\PayModePresenter.cs",
-              "RelativeToolTip": "Presenters\\PayModePresenter.cs",
-              "ViewState": "AgIAADoAAAAAAAAAAAA6wCQAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-09T19:19:26.289Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "App.config",
-              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\Supermarket-mvp\\App.config",
-              "RelativeDocumentMoniker": "App.config",
-              "ToolTip": "C:\\Users\\Dell\\source\\repos\\Supermarket-mvp\\App.config",
-              "RelativeToolTip": "App.config",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2024-10-10T20:32:12.572Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 5,
               "Title": "IPayModeRepository.cs",
               "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\Supermarket-mvp\\Models\\IPayModeRepository.cs",
               "RelativeDocumentMoniker": "Models\\IPayModeRepository.cs",
@@ -263,20 +128,223 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 4,
               "Title": "PayModeModel.cs",
               "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\Supermarket-mvp\\Models\\PayModeModel.cs",
               "RelativeDocumentMoniker": "Models\\PayModeModel.cs",
               "ToolTip": "C:\\Users\\Dell\\source\\repos\\Supermarket-mvp\\Models\\PayModeModel.cs",
               "RelativeToolTip": "Models\\PayModeModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAKAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-09T04:10:20.989Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainPresenter.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\Supermarket-mvp\\Presenters\\MainPresenter.cs",
+              "RelativeDocumentMoniker": "Presenters\\MainPresenter.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\Supermarket-mvp\\Presenters\\MainPresenter.cs*",
+              "RelativeToolTip": "Presenters\\MainPresenter.cs*",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAxwCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T02:39:38.467Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PayModePresenter.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\Supermarket-mvp\\Presenters\\PayModePresenter.cs",
+              "RelativeDocumentMoniker": "Presenters\\PayModePresenter.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\Supermarket-mvp\\Presenters\\PayModePresenter.cs",
+              "RelativeToolTip": "Presenters\\PayModePresenter.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAIwCQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T19:19:26.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IPayModeView.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\Supermarket-mvp\\Views\\IPayModeView.cs",
+              "RelativeDocumentMoniker": "Views\\IPayModeView.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\Supermarket-mvp\\Views\\IPayModeView.cs",
+              "RelativeToolTip": "Views\\IPayModeView.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAgwCEAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T04:19:26.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PayModeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\Supermarket-mvp\\_Repositories\\PayModeRepository.cs",
+              "RelativeDocumentMoniker": "_Repositories\\PayModeRepository.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\Supermarket-mvp\\_Repositories\\PayModeRepository.cs",
+              "RelativeToolTip": "_Repositories\\PayModeRepository.cs",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAAAF8AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T01:11:52.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BaseRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\Supermarket-mvp\\_Repositories\\BaseRepository.cs",
+              "RelativeDocumentMoniker": "_Repositories\\BaseRepository.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\Supermarket-mvp\\_Repositories\\BaseRepository.cs",
+              "RelativeToolTip": "_Repositories\\BaseRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T01:09:53.621Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MainView.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\Supermarket-mvp\\Views\\MainView.cs",
+              "RelativeDocumentMoniker": "Views\\MainView.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\Supermarket-mvp\\Views\\MainView.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Views\\MainView.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T22:01:23.382Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PayModeView.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\Supermarket-mvp\\Views\\PayModeView.cs",
+              "RelativeDocumentMoniker": "Views\\PayModeView.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\Supermarket-mvp\\Views\\PayModeView.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Views\\PayModeView.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T04:29:10.31Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PayModeView.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\Supermarket-mvp\\Views\\PayModeView.Designer.cs",
+              "RelativeDocumentMoniker": "Views\\PayModeView.Designer.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\Supermarket-mvp\\Views\\PayModeView.Designer.cs",
+              "RelativeToolTip": "Views\\PayModeView.Designer.cs",
+              "ViewState": "AgIAAEYBAAAAAAAAAAAAAA0BAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T18:45:45.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IMainView.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\Supermarket-mvp\\Views\\IMainView.cs",
+              "RelativeDocumentMoniker": "Views\\IMainView.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\Supermarket-mvp\\Views\\IMainView.cs",
+              "RelativeToolTip": "Views\\IMainView.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T21:51:54.459Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\Supermarket-mvp\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\Supermarket-mvp\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBkAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T05:17:46.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Supermarket-mvp.csproj",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\Supermarket-mvp\\Supermarket-mvp.csproj",
+              "RelativeDocumentMoniker": "Supermarket-mvp.csproj",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\Supermarket-mvp\\Supermarket-mvp.csproj",
+              "RelativeToolTip": "Supermarket-mvp.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-09T04:07:00.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MainView.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\Supermarket-mvp\\Views\\MainView.cs",
+              "RelativeDocumentMoniker": "Views\\MainView.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\Supermarket-mvp\\Views\\MainView.cs",
+              "RelativeToolTip": "Views\\MainView.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T02:36:05.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "SQLQuery1.sql ",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\Supermarket-mvp\\SQLQuery1.sql",
+              "RelativeDocumentMoniker": "SQLQuery1.sql",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\Supermarket-mvp\\SQLQuery1.sql",
+              "RelativeToolTip": "SQLQuery1.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-10-10T21:18:52.449Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 15,
+              "Title": "Supermarket-mvp",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\Supermarket-mvp\\Supermarket-mvp.csproj",
+              "RelativeDocumentMoniker": "Supermarket-mvp.csproj",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\Supermarket-mvp\\Supermarket-mvp.csproj",
+              "RelativeToolTip": "Supermarket-mvp.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-10T16:45:03.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Settings.settings",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\Supermarket-mvp\\Properties\\Settings.settings",
+              "RelativeDocumentMoniker": "Properties\\Settings.settings",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\Supermarket-mvp\\Properties\\Settings.settings",
+              "RelativeToolTip": "Properties\\Settings.settings",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002767|",
+              "WhenOpened": "2024-10-10T16:45:33.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\Supermarket-mvp\\App.config",
+              "RelativeDocumentMoniker": "App.config",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\Supermarket-mvp\\App.config",
+              "RelativeToolTip": "App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-10-10T20:32:12.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
               "Title": "dbo.PayMode [Datos]",
               "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/Supermarket/True/SqlTable/dbo.PayMode.sql",
               "ToolTip": "dbo.PayMode [Datos]",
