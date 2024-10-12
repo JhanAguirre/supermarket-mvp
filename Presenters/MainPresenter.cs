@@ -3,11 +3,12 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using Supermarker_mvp.Models;
+using Supermarket_mvp.Models;
 using Supermarket_mvp.Views;
 using Supermarket_mvp._Repositories;
+using Supermarker_mvp.Presenters;
 
-namespace Supermarker_mvp.Presenters
+namespace Supermarket_mvp.Presenters
 {
     internal class MainPresenter
     {

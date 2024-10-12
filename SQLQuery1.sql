@@ -1,5 +1,5 @@
 ﻿use Supermarket
-
+DROP TABLE PayMode
 create table PayMode
 (
     Pay_Mode_Id int identity (100000,1) primary key,

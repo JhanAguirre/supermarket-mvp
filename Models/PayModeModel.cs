@@ -7,7 +7,7 @@ using System.ComponentModel.DataAnnotations;
 using System.ComponentModel;
 
 
-namespace Supermarker_mvp.Models
+namespace Supermarket_mvp.Models
 {
     internal class PayModeModel
     {
@@ -19,6 +19,7 @@ namespace Supermarker_mvp.Models
         [StringLength(50, MinimumLength = 3, ErrorMessage = "Pay mode name must be between 3 and 50 characters")]
         public string Name { get; set; }
 
+
         [DisplayName("Observation")]
         [Required(ErrorMessage = "Pay mode observation is required")]
         [StringLength(200, MinimumLength = 3, ErrorMessage = "Pay mode observation must be between 3 and 200 characters")]
@@ -26,3 +27,4 @@ namespace Supermarker_mvp.Models
     }
 }
 
+    

@@ -1,9 +1,10 @@
-using Supermarker_mvp.Models;
+using Supermarket_mvp.Models;
 using Supermarket_mvp._Repositories;
 using Supermarket_mvp.Views;
 using Supermarket_mvp.Properties;
 using Supermarker_mvp.Presenters;
 using System.Configuration;
+using Supermarket_mvp.Presenters;
 namespace Supermarket_mvp
 {
     internal static class Program
